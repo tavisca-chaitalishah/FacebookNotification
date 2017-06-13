@@ -1,0 +1,9 @@
+D:\FacebookNotification\FacebookNotificationController\ObjectTranslator\bin\Debug\ObjectTranslator.dll
+D:\FacebookNotification\FacebookNotificationController\ObjectTranslator\bin\Debug\ObjectTranslator.pdb
+D:\FacebookNotification\FacebookNotificationController\ObjectTranslator\bin\Debug\DataContract.dll
+D:\FacebookNotification\FacebookNotificationController\ObjectTranslator\bin\Debug\Model.dll
+D:\FacebookNotification\FacebookNotificationController\ObjectTranslator\bin\Debug\DataContract.pdb
+D:\FacebookNotification\FacebookNotificationController\ObjectTranslator\bin\Debug\Model.pdb
+D:\FacebookNotification\FacebookNotificationController\ObjectTranslator\obj\Debug\ObjectTranslator.csprojResolveAssemblyReference.cache
+D:\FacebookNotification\FacebookNotificationController\ObjectTranslator\obj\Debug\ObjectTranslator.dll
+D:\FacebookNotification\FacebookNotificationController\ObjectTranslator\obj\Debug\ObjectTranslator.pdb

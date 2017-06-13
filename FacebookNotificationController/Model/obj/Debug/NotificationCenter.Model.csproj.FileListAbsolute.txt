@@ -1,0 +1,5 @@
+D:\FacebookNotification\FacebookNotificationController\Model\bin\Debug\Model.dll
+D:\FacebookNotification\FacebookNotificationController\Model\bin\Debug\Model.pdb
+D:\FacebookNotification\FacebookNotificationController\Model\obj\Debug\NotificationCenter.Model.csprojResolveAssemblyReference.cache
+D:\FacebookNotification\FacebookNotificationController\Model\obj\Debug\Model.dll
+D:\FacebookNotification\FacebookNotificationController\Model\obj\Debug\Model.pdb
